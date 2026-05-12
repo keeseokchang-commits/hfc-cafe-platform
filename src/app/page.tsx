@@ -25,7 +25,7 @@ export default function Home() {
           </div>
         </div>
         <p className="mt-12 text-sm text-[#9C8B7A]">
-          🚧 개발 중 · React + Next.js
+          🚧 개발 중 · React + Next.js Day1 26.05.12 ✨
         </p>
       </main>
     </div>
